@@ -3,7 +3,7 @@
  **NOTE:** This extension has been designed exclusively for educational purposes. As the creator, I wish to make it clear that I cannot be held accountable in the event of any misconduct involving this extension, including academic dishonesty. Furthermore, I do not assume responsibility for a student's utilization of this extension.
 
  ## About
-I made this crome extension for Zander Kane
+I made this crome extension for Zander Kane it allows infinite jump and immunity to spikes. 
 
 ## How To Use:
 1. Clone Repo or Download Zip
