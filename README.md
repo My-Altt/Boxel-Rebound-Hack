@@ -6,10 +6,11 @@
 I made this crome extension for Zander Kane it allows infinite jump and immunity to spikes. 
 
 ## How To Use:
-1. Clone Repo or Download Zip
 
 **NOTE:**
-Before completing the next steps you will need to open file explorer afterwords open the downloaded zip then move the folder Boxel rebound hack to downloads this is so you see the folder when you try to import it. 
+Before completing the next steps you will need to open file explorer afterwords open the downloaded zip then move the folder Boxel rebound hack to downloads this is so you see the folder when you try to import it.
+
+1. Clone Repo or Download Zip 
 
 ![Instruction#1](https://github.com/My-Altt/School-Google-Forms-Hack/assets/101564533/d810e611-5cee-4dcb-8714-5cdb4f64e8ae)
 
